@@ -1,2 +1,2 @@
 # react
-fun learning through react and redux
+fun learning with react and redux
